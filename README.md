@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aman0786-git
+- 👋 Hi, I’m Md Amanullah
 - 👀 I’m interested in Software Devlopment
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on projects
