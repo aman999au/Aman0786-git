@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md Amanullah
 - 👀 I’m interested in Software Devlopment
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on projects
 - 📫  E-mail - aman999.au@gmail.com 
      
