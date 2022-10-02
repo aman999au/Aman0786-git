@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/Aman0786-git/Aman0786-git/blob/output/github-contribution-grid-snake.svg)
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://aman0786-git.io)
 <h1 align="center">Hi 👋, I'm Md Amanullah</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -31,3 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman0786-git&theme=jolly" alt="aman0786-git" /></p>
 
+![Snake animation](https://github.com/Aman0786-git/Aman0786-git/blob/output/github-contribution-grid-snake.svg)
