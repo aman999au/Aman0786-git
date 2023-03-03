@@ -2,7 +2,6 @@
 
 🔭 I’m currently working on Frontend Projects<br><br>🌱 I’m currently learning React<br><br>💬 Ask me about Frontend Dev<br><br>📫 How to reach me aman999.au@gmail.com
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman0786-git&label=Profile%20views&color=0e75b6&style=flat" alt="aman0786-git" /> </p>
 
 ## 🌐 Socials:
